@@ -6,6 +6,8 @@ Please refer to http://predictionio.incubator.apache.org/templates/classificatio
 
 ## Versions
 
+### test branch with scala-2.11.0, spark 2.1.0 and pio-0.11.0
+
 ### v0.4.0
 
 Update for Apache PredictionIO 0.10.0-incubating
